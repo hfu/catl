@@ -1,3 +1,7 @@
+*.ndjson.gz
+*.mbtiles
+dst
+
 # Logs
 logs
 *.log

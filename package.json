@@ -1,0 +1,29 @@
+{
+  "name": "catl",
+  "version": "1.0.0",
+  "description": "convert modularized OSM data into vector tiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/catl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/catl/issues"
+  },
+  "homepage": "https://github.com/hfu/catl#readme",
+  "dependencies": {
+    "better-queue": "^3.8.10",
+    "byline": "^5.0.0",
+    "config": "^3.0.1",
+    "hh-mm-ss": "^1.2.0",
+    "hjson": "^3.1.2",
+    "prettysize": "^2.0.0",
+    "tempy": "^0.2.1"
+  }
+}
