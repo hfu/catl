@@ -1,5 +1,5 @@
 {
   srcDir: ../tapal/ndjson
   dstDir: dst
-  concurrent: 1
+  concurrent: 2
 }
